@@ -7,7 +7,7 @@ CST8915 Lab 1 -Azure VM Pet Store Deployment
 
 ## Demo Video
 
-**YouTube Video:** [Video link will be added here]
+**YouTube Video:** [https://youtu.be/onBWpnrF3Ag]
 
 ## Technical Explanations
 
